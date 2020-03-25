@@ -246,7 +246,7 @@ socket.on('message', function(message,rinfo) {
 
 //setup udp server port
 var port = 5000;
-var HOST = '127.0.0.1';
+var HOST = '54.232.150.136';
 /* server listening 127.0.0.1:process.env.PORT or 127.0.0.1:port
  * socket.bind(PORT, HOST);
 */
